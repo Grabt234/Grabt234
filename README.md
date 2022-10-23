@@ -11,9 +11,11 @@
 - [Virtual Box](https://www.virtualbox.org/)
 - [VTune](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html)
 - [QT](https://www.qt.io/)
+- [Firebase](https://firebase.google.com/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6Nji_xHVlPuBEfk2A-4eqWCnucuWOXyMPU3rwtDN_5nidjAFYML1ThoCGEwQAvD_BwE&gclsrc=aw.ds)
 
 ## Languages
 - C++ (Daily use)
+- Cmake
 - Python (Every now and again)
 - Matlab (Compelted a masters with this)
 - C# (Edited others code)
@@ -28,3 +30,11 @@
 - RaspberryPi
 - ESP
 - STM
+
+## Misc Stuffs
+- Latex/Markdown
+- [LoRa](https://lora-alliance.org/)
+- [E57](http://www.libe57.org/)
+- [Ettus N210](https://kb.ettus.com/N200/N210)
+- [LTE Standard](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (I unfortunatlely know more about this than I would like to admin)
+- [DAB Standard](https://en.wikipedia.org/wiki/Digital_Audio_Broadcasting) (This as well)
