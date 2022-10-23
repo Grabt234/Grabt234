@@ -17,7 +17,7 @@
 - C++ (Daily use)
 - Cmake
 - Python (Every now and again)
-- Matlab (Compelted a masters with this)
+- Matlab (Completed a masters with this)
 - C# (Edited others code)
 
 ## OS
