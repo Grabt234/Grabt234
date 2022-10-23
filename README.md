@@ -11,3 +11,20 @@
 - [Virtual Box](https://www.virtualbox.org/)
 - [VTune](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html)
 - [QT](https://www.qt.io/)
+
+## Languages
+- C++ (Daily use)
+- Python (Every now and again)
+- Matlab (Compelted a masters with this)
+- C# (Edited others code)
+
+## OS
+- Windows
+- Gentoo
+- Raspbian
+- Ubuntu
+
+## Embedded Platdforms
+- RaspberryPi
+- ESP
+- STM
