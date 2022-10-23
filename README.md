@@ -24,7 +24,7 @@
 - Raspbian
 - Ubuntu
 
-## Embedded Platdforms
+## Embedded Platforms
 - RaspberryPi
 - ESP
 - STM
