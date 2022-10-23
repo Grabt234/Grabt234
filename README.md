@@ -38,3 +38,9 @@
 - [Ettus N210](https://kb.ettus.com/N200/N210)
 - [LTE Standard](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (I unfortunatlely know more about this than I would like to admit)
 - [DAB Standard](https://en.wikipedia.org/wiki/Digital_Audio_Broadcasting) (This as well)
+
+## What I plan to learn
+- JavaScript
+- Docker
+- Weights and Biases
+- Rust
