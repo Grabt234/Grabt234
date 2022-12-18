@@ -12,6 +12,8 @@
 - [VTune](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html)
 - [QT](https://www.qt.io/)
 - [Firebase](https://firebase.google.com/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6Nji_xHVlPuBEfk2A-4eqWCnucuWOXyMPU3rwtDN_5nidjAFYML1ThoCGEwQAvD_BwE&gclsrc=aw.ds)
+- [KiCad](https://www.kicad.org/)
+- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 
 ## Languages
 - C++ (Daily use)
