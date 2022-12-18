@@ -21,6 +21,8 @@
 - Python (Every now and again)
 - Matlab (Completed a masters with this)
 - C# (Edited others code)
+- Bat
+- Shell
 
 ## OS
 - Windows
