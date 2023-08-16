@@ -1,50 +1,25 @@
-# Things I know how to do/use or have used in the past
+# Grabt234 
 
-## Sofware
-- [ONNX](https://onnx.ai/) (Machine learning and C++)
-- [DVC](https://dvc.org/)
-- [Postman](https://www.postman.com/)
-- [Git](https://git-scm.com/)
-- [SVN](https://tortoisesvn.net/)
-- [Postgress](https://www.postgresql.org/)
-- [Visual Studio](https://visualstudio.microsoft.com/)
-- [Virtual Box](https://www.virtualbox.org/)
-- [VTune](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html)
-- [QT](https://www.qt.io/)
-- [Firebase](https://firebase.google.com/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6Nji_xHVlPuBEfk2A-4eqWCnucuWOXyMPU3rwtDN_5nidjAFYML1ThoCGEwQAvD_BwE&gclsrc=aw.ds)
-- [KiCad](https://www.kicad.org/)
-- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
+## Machine Learning Engineer/C++ Dev/Systems Engineer
 
-## Languages
-- C++ (Daily use)
-- Cmake
-- Python (Every now and again)
-- Matlab (Completed a masters with this)
-- C# (Edited others code)
-- Bat
-- Shell
+- 💻 I currently work on C++ and Python code bases for machine learning and signals analysis applications
+- 🛠 while also working on hardware development and integration
+- 🎤 I spend and have spent many hours on the [Sense Scape Project](https://github.com/Sense-Scape)
+- 📡 I have also completed an MSc in Radar and Electronic Defence
 
-## OS
-- Windows
-- Gentoo
-- Raspbian
-- Ubuntu
+## Some Technical Skills
 
-## Embedded Platforms
-- RaspberryPi
-- ESP
-- STM
+| Languages | C++ &emsp; Python &emsp; Matlab &emsp; C &emsp; CMake  &emsp; Shell &emsp; Batch |
+| :---:   | :---: |
+| Technologies |  Visual Studio &emsp; ONNX &emsp; Docker &emsp; QT &emsp; VTune &emsp; Virtual Box &emsp; SVN &emsp; Git |
+| Platforms   | Windows &emsp; Linux &emsp; ESP32 &emsp; RaspberryPi|
+|  Misc  | Radar &emsp; E57 &emsp; DVBT &emsp; LTE &emsp; LoRa &emsp; LoRaWAN &emsp; Latex|
 
-## Misc Stuffs
-- Latex/Markdown
-- [LoRa](https://lora-alliance.org/)
-- [E57](http://www.libe57.org/)
-- [Ettus N210](https://kb.ettus.com/N200/N210)
-- [LTE Standard](https://en.wikipedia.org/wiki/LTE_(telecommunication)) (I unfortunatlely know more about this than I would like to admit)
-- [DAB Standard](https://en.wikipedia.org/wiki/Digital_Audio_Broadcasting) (This as well)
+## My Favorite Projects
 
-## What I plan to learn
-- JavaScript
-- Docker
-- Weights and Biases
-- Rust
+- 🩸 Blood glucose prediction using LSTMs
+- 📱 Design and Demonstration of a Dual Purpose Radar Communication System
+- 🔊 Acoustic phased array interferometery project
+
+## Contribution Summaries
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/langs?time_range=one_year&use_percent=True&include_private=True&group=private&loc_metric=changed&theme=synthwaves)                           ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
