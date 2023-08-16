@@ -15,7 +15,7 @@
 | Platforms   | Windows &emsp; Linux &emsp; ESP32 &emsp; RaspberryPi|
 |  Misc  | Radar &emsp; E57 &emsp; DVBT &emsp; LTE &emsp; LoRa &emsp; LoRaWAN &emsp; Latex|
 
-## My Favorite Projects
+## My Favorite Personal Projects
 
 - 🩸 Blood glucose prediction using LSTMs
 - 📱 Design and Demonstration of a Dual Purpose Radar Communication System
