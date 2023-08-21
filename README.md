@@ -13,7 +13,7 @@
 | :---:   | :---: |
 | Technologies |  Visual Studio &emsp; ONNX &emsp; Docker &emsp; QT &emsp; VTune &emsp; Virtual Box &emsp; SVN &emsp; Git |
 | Platforms   | Windows &emsp; Linux &emsp; ESP32 &emsp; RaspberryPi|
-|  Misc  | Radar &emsp; E57 &emsp; DVBT &emsp; LTE &emsp; LoRa &emsp; LoRaWAN &emsp; Latex &emsp; ELINT &emsp; SIGINT|
+|  Misc  | Radar &emsp; E57 &emsp; DVBT &emsp; LTE &emsp; LoRa &emsp; LoRaWAN &emsp; Latex |
 
 ## My Favorite Personal Projects
 
