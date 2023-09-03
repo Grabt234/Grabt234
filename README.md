@@ -22,4 +22,4 @@
 - 🔊 Acoustic phased array interferometery project
 
 ## Contribution Summaries
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/langs?time_range=one_year&use_percent=True&include_private=True&group=private&loc_metric=changed&theme=synthwaves)                           ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/langs?time_range=one_month&include_private=True&loc_metric=changed&theme=synthwaves)  ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/langs?time_range=one_year&use_percent=True&include_private=True&group=private&loc_metric=changed&theme=synthwaves)                            ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Grabt234/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves)
