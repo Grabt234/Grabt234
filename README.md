@@ -9,7 +9,7 @@
 
 ## Some Technical Skills
 
-| Languages | C++ &emsp; Python &emsp; Go  &emsp; Matlab &emsp; C &emsp; CMake  &emsp; Shell &emsp; Batch &emsp CMake|
+| Languages | C++ &emsp; Python &emsp; Go  &emsp; Matlab &emsp; C &emsp; CMake  &emsp; Shell &emsp; Batch &emsp; CMake|
 | :---:   | :---: |
 | Technologies |  Visual Studio &emsp; ONNX &emsp; Docker &emsp; QT &emsp; VTune &emsp; Virtual Box &emsp; SVN &emsp; Git |
 | Platforms   | Windows &emsp; Linux &emsp; ESP32 &emsp; RaspberryPi|
